@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Resume v4.0.0-beta.2 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2017 Start Bootstrap
+ * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 body {
@@ -104,12 +104,12 @@ section.resume-section {
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #BD5D38 !important; }
+  background-color: forestgreen !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: forestgreen !important; }
 
 a {
-  color: #BD5D38; }
+  color: forestgreen; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: forestgreen; }
